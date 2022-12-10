@@ -19,3 +19,4 @@ Create a PR and we can work together to make something great!
 ### Ideas
 - link out to less common ingredients 
 - add photos
+- add Github template for new recipes
