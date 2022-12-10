@@ -5,7 +5,7 @@ I love developing software, but I also love cooking. Here's a stab at developing
 ### Feedback
 
 Love the recipe? 
-React to the file or watch then repo
+Fork then repo and make it your own! Make sure to hit that star up above
 
 Have a problem with it?
 Submit a github issue for the specific recipe and I'll put together a PR so we can fix it together!
