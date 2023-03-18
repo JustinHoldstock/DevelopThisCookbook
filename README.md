@@ -1,8 +1,14 @@
-## Develop This Cookbook 
+# Develop This Cookbook 
 
 I love developing software, but I also love cooking. Here's a stab at developing recipes in my free time.
 
-### Feedback
+
+## The Recipes
+
+- [Mulled Wine Tart](/recipes/mulled-wine-tart.md)
+
+---
+## Feedback
 
 **Love the recipe?** 
 
@@ -16,7 +22,7 @@ Submit a github issue for the specific recipe and I'll put together a PR so we c
 
 Create a PR and we can work together to make something great!
 
-### Ideas
+## Ideas
 - link out to less common ingredients 
 - add photos
 - add Github template for new recipes
